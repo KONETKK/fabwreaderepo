@@ -3,18 +3,18 @@
     "id": 1,
     "title": "Обзор 1",
     "videoUrl": "https://github.com/KONETKK/fabwreaderepo/raw/refs/heads/main/videos/vid1.mp4",
-    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/fab1.jpg"
+    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab1.jpg"
   },
   {
     "id": 2,
     "title": "Обзор 2",
     "videoUrl": "https://github.com/KONETKK/fabwreaderepo/raw/refs/heads/main/videos/vid2.mp4",
-    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/fab2.jpg"
+    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab2.jpg"
   },
   {
     "id": 3,
     "title": "Обзор 3",
     "videoUrl": "https://github.com/KONETKK/fabwreaderepo/raw/refs/heads/main/videos/vid3.mp4",
-    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/fab3.jpg"
+    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab3.jpg"
   }
 ]
