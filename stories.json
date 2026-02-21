@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Adrenaline",
+    "title": "Lancelot",
     "videoUrl": "https://github.com/KONETKK/fabwreaderepo/raw/refs/heads/main/videos/vid1.mp4",
-    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab1.jpg"
+    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab2.jpg"
   },
   {
     "id": 2,
-    "title": "Lancelot",
+    "title": "Adrenaline",
     "videoUrl": "https://github.com/KONETKK/fabwreaderepo/raw/refs/heads/main/videos/vid2.mp4",
-    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab2.jpg"
+    "previewUrl": "https://raw.githubusercontent.com/KONETKK/fabwreaderepo/main/previwes/fab1.jpg"
   },
   {
     "id": 3,
