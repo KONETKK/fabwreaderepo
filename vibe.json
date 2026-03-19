@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Удлиняющая тушь Macroscopic, тон чёрный",
+    "description": "Экстраудлинение, суперобъём и ультрачёрный оттенок. Серия Glam Team",
+    "imageUrl": "https://images.faberlic.com/imo/transform/profile=w456/product/prod/product/01020104-064859/04c0c791.jpg",
+    "oldPrice": 400,
+    "newPrice": 119,
+    "discountPercent": 70,
+    "productUrl": "https://faberlic.com/ru/ru/product/01020104-064859?sponsornumber=745374838"
+  },
+  {
+    "id": 2,
+    "name": "Туалетная вода для мужчин Lancelot",
+    "description": "Свежий, ароматический, древесно-пряный аромат. 100 мл. Серия Lancelot",
+    "imageUrl": "https://images.faberlic.com/imo/transform/profile=w456/product/1001470539729_17492120855.jpg",
+    "oldPrice": 2000,
+    "newPrice": 1199,
+    "discountPercent": 40,
+    "productUrl": "https://faberlic.com/ru/ru/product/010502-051596?sponsornumber=745374838"
+  },
+  {
+    "id": 3,
+    "name": "Шампунь-гель 2 в 1 Energy «Аконкагуа»",
+    "description": "С ледниковой водой в составе. Увлажняет и успокаивает. 380 мл. Серия Peak",
+    "imageUrl": "https://images.faberlic.com/imo/transform/profile=w456/product/1001228516414_17133560701.jpg",
+    "oldPrice": 400,
+    "newPrice": 175,
+    "discountPercent": 56,
+    "productUrl": "https://faberlic.com/ru/ru/product/01070303-020760?sponsornumber=745374838"
+  }
+]
