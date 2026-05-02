@@ -2,8 +2,24 @@
   {
     "id": 1,
     "title": "Распаковка Faberlic №1",
-    "description": "Распаковка личного заказа Faberlic",
+    "description": "Распаковка моего личного заказа продукции компании Фаберлик!",
     "previewUrl": "https://github.com/KONETKK/fabwreaderepo/blob/main/previwes/unb1.png?raw=true",
     "videoUrl": "https://vkvideo.ru/video384079255_456239027?list=63e4d6672f35916b14"
+  },
+
+  {
+    "id": 2,
+    "title": "Распаковка Faberlic №2",
+    "description": "Распаковка моего личного заказа по 4 каталогу компании Фаберлик.",
+    "previewUrl": "https://github.com/KONETKK/fabwreaderepo/blob/main/previwes/unb2.png?raw=true",
+    "videoUrl": "https://vk.com/video384079255_456239028"
+  },
+
+  {
+    "id": 3,
+    "title": "Распаковка Faberlic №3",
+    "description": "Распаковка моего личного заказа по 6 каталогу компании Фаберлик.",
+    "previewUrl": "https://github.com/KONETKK/fabwreaderepo/blob/main/previwes/unb3.png?raw=true",
+    "videoUrl": "https://vk.com/clip384079255_456239029"
   }
 ]
