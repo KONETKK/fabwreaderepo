@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "cosmetics",
+  "archiveSha1": "336b3cd493d1f5db1822982b9097e581f6e82b1c",
+  "sections": [
+    {
+      "id": "new",
+      "image": "0001.webp"
+    },
+    {
+      "id": "fragrance",
+      "image": "0055.webp"
+    },
+    {
+      "id": "care",
+      "image": "0039.webp"
+    },
+    {
+      "id": "home",
+      "image": "0120.webp"
+    },
+    {
+      "id": "gifts",
+      "image": "0152.webp"
+    }
+  ]
+}
